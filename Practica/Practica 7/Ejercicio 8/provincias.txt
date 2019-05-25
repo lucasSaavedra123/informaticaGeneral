@@ -1,0 +1,4 @@
+1,Buenos Aires,1
+8,Jujuy,1
+3,Rio Grande,2
+9,San Diego,2
